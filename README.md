@@ -19,7 +19,7 @@ When working at scale, the **speed** and **efficiency** of your algorithms becom
 
 Resources:
 
-- [HackerRank intro](https://www.youtube.com/watch?v=v4cd1O4zkGw) video 
+- [HackerRank intro](https://www.youtube.com/watch?v=v4cd1O4zkGw) (video) 
 - [Complete Beginner's Guide to Big O notation](https://www.youtube.com/watch?v=kS_gr2_-ws8) (video) 
 
 ## Different types of Data Structures
