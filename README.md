@@ -1,4 +1,4 @@
-# Data Structure
+# Data Structures
 
 ## What is a data structure?
 
